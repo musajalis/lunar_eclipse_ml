@@ -1,4 +1,4 @@
 # lunar_prediction_ml
 CS 189: Introduction to Machine Learning, Final Project, UC Berkeley, December 2020
 
-A machine learning model for predicting lunar eclipses. Additionally, a ML model for predicting the location of astronomical objects.
+A Python notebook demonstrating a machine learning model for predicting lunar eclipses. Additionally, a ML model for predicting the location of astronomical objects.
